@@ -2,6 +2,6 @@
 An exploration of the use of morphological brain networks (MBNs) and graph neural networks (GNNs) to support the diagnosis of bipolar disorder.
 
 The project is organized into three main components:
-- MBN construction using the MIND method
+- MBN construction using the MIND method (MIND_nmm)
 - Experimental trials for the evaluation of different GNN design choices
 - Leave-One-Site-Out Cross-Validation (LOSO-CV)
